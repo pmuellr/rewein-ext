@@ -16,13 +16,13 @@ installation
 
 Download the binary extension right from github:
 
-    [rewein-ext.safariextz](https://github.com/pmuellr/rewein-ext/raw/master/rewein-ext.safariextz)
+* [rewein-ext.safariextz](https://github.com/pmuellr/rewein-ext/raw/master/rewein-ext.safariextz)
 
 From Finder, double click the `rewein-ext.safariextz` file, and Safari
 should launch with the "load this extension?" prompter.
 
-extensions
-==========
+fixes
+=====
 
 List of things that this extension "fixes".
 
