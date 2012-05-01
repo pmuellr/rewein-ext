@@ -1,0 +1,5 @@
+/* fix ugly monospace font */
+body.platform-mac.remote .monospace, body.platform-mac.remote .source-code {
+    font-family: monospace !important;
+    font-size: 12px !important;
+}
