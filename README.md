@@ -14,9 +14,12 @@ There are issues, and this Safari extension is supposed to help with them
 installation
 ============
 
-Not quite sure yet what the best mechanism is.
-For now, clone the repo locally, then add the 
-extension manually from the Safari Develop / Show Extension Builder menu.
+Download the binary extension right from github:
+
+    [rewein-ext.safariextz](https://github.com/pmuellr/rewein-ext/raw/master/rewein-ext.safariextz)
+
+From Finder, double click the `rewein-ext.safariextz` file, and Safari
+should launch with the "load this extension?" prompter.
 
 extensions
 ==========
